@@ -1,0 +1,16 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "redii",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "got": "^10.4.0"
+  },
+  "scripts": {
+    
+  },
+  "devDependencies": {
+
+  }
+}
